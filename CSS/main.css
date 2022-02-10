@@ -1,0 +1,48 @@
+.wifi1{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    margin: 200px;
+    border: 50px solid black;
+    padding: 50px;
+    border-right: none;
+    border-bottom: none;
+    border-left: none;
+    border-radius: 50%;
+}
+
+.wifi2{
+    width: 300px;
+    height: 300px;
+    padding: 50px;
+    background-color: white;
+    border: 50px solid black;
+    border-right: none;
+    border-bottom: none;
+    border-left: none;
+    border-radius: 50%;
+}
+
+.wifi3{
+    width: 200px;
+    height: 200px;
+    padding: 50px;
+    background-color: white;
+    border: 50px solid black;
+    border-right: none;
+    border-bottom: none;
+    border-left: none;
+    border-radius: 50%;
+}
+
+.wifi4{
+    width: 80px;
+    height: 80px;
+    padding: 50px;
+    background-color: black;
+    /* border: 50px solid black;
+    border-right: none;
+    border-bottom: none;
+    border-left: none; */
+    border-radius: 50%;
+}
